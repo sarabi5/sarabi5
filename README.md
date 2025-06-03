@@ -13,4 +13,8 @@ You can find my published research and data science projects on my [Google Schol
 
 My Rstudio projects:
 
-My end to end pyhton projects:
+### 🛠️ My End-to-End Python Projects
+
+- [Text Summarization with T5 Model (CNN/DailyMail Dataset)](https://github.com/sarabi5/Text-Summarization-T5-Model-CNN-DailyMail-Dataset)  
+- [Energy Efficiency Prediction with Machine Learning](https://github.com/sarabi5/Energy-Efficiency-Prediction-with-Machine-Learning)
+
