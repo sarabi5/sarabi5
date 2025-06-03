@@ -18,5 +18,6 @@ You can find my published research and data science projects on my [Google Schol
 ### My End-to-End Python Projects
 - [LLM Text Summarization with T5 Model (CNN/DailyMail Dataset)](https://github.com/sarabi5/Text-Summarization-T5-Model-CNN-DailyMail-Dataset)  
 - [Building Energy Efficiency Prediction with Machine Learning](https://github.com/sarabi5/Energy-Efficiency-Prediction-with-Machine-Learning)  
-- [Indoor Object Recognition from LiDAR Point Cloud Data](https://github.com/sarabi5/Indoor-Object-Recognition-from-LiDAR-Point-Cloud-Data)
+- [Indoor Object Recognition from LiDAR Point Cloud Data](https://github.com/sarabi5/Indoor-Object-Recognition-from-LiDAR-Point-Cloud-Data)  
+- [Unsupervised Anomaly Detection on MVTecAD](https://github.com/sarabi5/Unsupervised-Anomaly-Detection-on-MVTecAD)
 
