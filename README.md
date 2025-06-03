@@ -4,7 +4,6 @@ I’m a data scientist and research scientist with a Ph.D. in Civil & Environmen
 You can find my published research and data science projects on my [Google Scholar profile](https://scholar.google.com/citations?user=tIBmNbsAAAAJ&hl=en&oi=ao).
 
 ### Published Journal Papers
-
 - [Dynamic Modeling to Reduce the Cost of Quality in Construction Projects](https://www.tandfonline.com/doi/abs/10.1080/15623599.2020.1845425)  
 - [Using Bayesian Networks for Selecting Risk-Response Strategies in Construction Projects](https://ascelibrary.org/doi/abs/10.1061/(ASCE)CO.1943-7862.0002310?casa_token=aTP2RoxRq3UAAAAA:8GEpsJJ4hf_uF1XEnChFN3ROB9nBQUM_FjH_PaksaOeTYhKwOHY_QqtLXD0oJ7vnfiAzprLo0g)  
 - [Near Real-Time Mapping of All-Sky Land Surface Temperature From GOES-R Using Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JH000464)  
@@ -14,7 +13,7 @@ You can find my published research and data science projects on my [Google Schol
 My Rstudio projects:
 
 ### 🛠️ My End-to-End Python Projects
-
 - [Text Summarization with T5 Model (CNN/DailyMail Dataset)](https://github.com/sarabi5/Text-Summarization-T5-Model-CNN-DailyMail-Dataset)  
-- [Energy Efficiency Prediction with Machine Learning](https://github.com/sarabi5/Energy-Efficiency-Prediction-with-Machine-Learning)
+- [Energy Efficiency Prediction with Machine Learning](https://github.com/sarabi5/Energy-Efficiency-Prediction-with-Machine-Learning)  
+- [Indoor Object Recognition from LiDAR Point Cloud Data](https://github.com/sarabi5/Indoor-Object-Recognition-from-LiDAR-Point-Cloud-Data)
 
