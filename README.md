@@ -10,7 +10,10 @@ You can find my published research and data science projects on my [Google Schol
 - [Detecting Underground Water Leaks with Radar-Multispectral Fusion and Machine Learning](https://www.sciencedirect.com/science/article/pii/S2352938525001478?casa_token=sE7F2caG9Y0AAAAA:OmNn92NA5aJIJZEgAXFi-Kj1WSEzDyidi9MirRHR7VlTsTCKz-kY2BYmzZM163FA-5z_v97YoQ)  
 - [Automated Detection of Water Leaks Under Paved Surfaces with Machine Learning Analysis of Radar Remote Sensing Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5044126)
 
-My Rstudio projects:
+### 📊 My RStudio Projects
+- [Interactive Trends Dashboard](https://github.com/sarabi5/Interactive-Trends-Dashbord)  
+- [Spatial Analysis of Tax Parcel Data](https://github.com/sarabi5/Spatial-Analysis-Tax-Parcel-Data)  
+- [Tempe Traffic Accident Analysis](https://github.com/sarabi5/Tempe-Traffic-Accident-Analysis)
 
 ### My End-to-End Python Projects
 - [Text Summarization with T5 Model (CNN/DailyMail Dataset)](https://github.com/sarabi5/Text-Summarization-T5-Model-CNN-DailyMail-Dataset)  
