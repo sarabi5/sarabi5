@@ -20,4 +20,8 @@ You can find my published research and data science projects on my [Google Schol
 - [Building Energy Efficiency Prediction with Machine Learning](https://github.com/sarabi5/Energy-Efficiency-Prediction-with-Machine-Learning)  
 - [Indoor Object Recognition from LiDAR Point Cloud Data](https://github.com/sarabi5/Indoor-Object-Recognition-from-LiDAR-Point-Cloud-Data)  
 - [Unsupervised Anomaly Detection on MVTecAD](https://github.com/sarabi5/Unsupervised-Anomaly-Detection-on-MVTecAD)
+- 
+### Cerfificates
+- [Introduction to SQL](https://simpli-web.app.link/e/aJy8Y0s9YTb)
+
 
