@@ -23,5 +23,7 @@ You can find my published research and data science projects on my [Google Schol
 - 
 ### Cerfificates
 - [Introduction to SQL](https://simpli-web.app.link/e/aJy8Y0s9YTb)
+- [Tableau Data Visualization](https://simpli-web.app.link/e/jsIfjzAg4Tb)
+
 
 
