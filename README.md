@@ -7,7 +7,7 @@ I am a Data scientist with strong expertise in machine learning, statistical mod
 - **[End-to-End MLOps Pipeline](https://github.com/sarabi5/End_to_End_MLOps)**
 - **[LLM Text Summarization using T5 (CNN/DailyMail Dataset)](https://github.com/sarabi5/Text-Summarization-T5-Model-CNN-DailyMail-Dataset)**
 - **[Building Energy Efficiency Prediction using Machine Learning](https://github.com/sarabi5/Energy-Efficiency-Prediction-with-Machine-Learning)**
-- **[Indoor Object Recognition from LiDAR Point Cloud Data](https://github.com/sarabi5/Indoor-Object-Recognition-from-LiDAR-Point-Cloud-Data)**
+- **[Indoor Object Recognition from LiDAR Point Cloud Data](https://github.com/sarabi5/Indoor-Object-Recognition-from-Point-Cloud-Data)**
 - **[Unsupervised Anomaly Detection on the MVTecAD Dataset](https://github.com/sarabi5/Unsupervised-Anomaly-Detection-on-MVTecAD)**
 
 ---
